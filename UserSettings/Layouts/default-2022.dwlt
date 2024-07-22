@@ -19,10 +19,10 @@ MonoBehaviour:
     width: 320.80002
     height: 567.2
   m_ShowMode: 0
-  m_Title: Script Graph
+  m_Title: Visual Scripting Graph
   m_RootView: {fileID: 4}
-  m_MinSize: {x: 101, y: 123}
-  m_MaxSize: {x: 4001, y: 4023}
+  m_MinSize: {x: 100, y: 121}
+  m_MaxSize: {x: 4000, y: 4021}
   m_Maximized: 0
 --- !u!114 &2
 MonoBehaviour:
@@ -67,8 +67,8 @@ MonoBehaviour:
     y: 0
     width: 320.80002
     height: 567.2
-  m_MinSize: {x: 101, y: 123}
-  m_MaxSize: {x: 4001, y: 4023}
+  m_MinSize: {x: 100, y: 121}
+  m_MaxSize: {x: 4000, y: 4021}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -94,10 +94,10 @@ MonoBehaviour:
     y: 0
     width: 320.80002
     height: 567.2
-  m_MinSize: {x: 101, y: 123}
-  m_MaxSize: {x: 4001, y: 4023}
+  m_MinSize: {x: 100, y: 121}
+  m_MaxSize: {x: 4000, y: 4021}
   vertical: 0
-  controlID: 253
+  controlID: 17
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -193,7 +193,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 1
-  controlID: 49
+  controlID: 62
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -219,7 +219,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 50}
   m_MaxSize: {x: 24288, y: 8096}
   vertical: 0
-  controlID: 50
+  controlID: 57
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -344,7 +344,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 100}
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
-    m_Text: Script Graph
+    m_Text: Visual Scripting Graph
     m_Image: {fileID: 0}
     m_Tooltip: 
   m_Pos:
@@ -365,8 +365,8 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   _data:
     _json: '{"locked":false,"graphInspectorEnabled":true,"variablesInspectorEnabled":true,"isActive":false,"referenceData":{"rootObjectInstanceID":-1534,"parentElementGuids":[]},"sidebars":{"left":{"size":335.0,"scroll":{"x":0.0,"y":0.0}},"right":{"size":300.0,"scroll":{"x":0.0,"y":0.0}},"panels":[{"height":200.0,"anchor":"Left","order":0,"controlHint":{"$content":"Unity.VisualScripting.GraphInspectorPanel","$type":"System.RuntimeType"},"scroll":{"x":0.0,"y":0.0}},{"height":200.0,"anchor":"Left","order":0,"controlHint":{"$content":"Unity.VisualScripting.VariablesPanel","$type":"System.RuntimeType"},"scroll":{"x":0.0,"y":0.0}}]},"reliablePosition":{"xMin":1151.2,"yMin":83.2,"xMax":1472.0,"yMax":629.4},"saveChangesMessage":"Unity.VisualScripting.GraphWindow
-      has unsaved changes.","m_MinSize":{"x":100.0,"y":100.0},"m_MaxSize":{"x":4000.0,"y":4000.0},"m_TitleContent":{"m_Text":"Script
-      Graph","m_Image":null,"m_Tooltip":""},"m_Pos":{"xMin":1151.2,"yMin":83.2,"xMax":1472.0,"yMax":629.4},"m_SerializedDataModeController":{"m_DataMode":"Disabled","m_PreferredDataMode":"Disabled","m_SupportedDataModes":[],"isAutomatic":true},"m_ViewDataDictionary":null,"m_OverlayCanvas":{"m_LastAppliedPresetName":"Default","m_SaveData":[],"m_OverlaysVisible":true}}'
+      has unsaved changes.","m_MinSize":{"x":100.0,"y":100.0},"m_MaxSize":{"x":4000.0,"y":4000.0},"m_TitleContent":{"m_Text":"Visual
+      Scripting Graph","m_Image":null,"m_Tooltip":""},"m_Pos":{"xMin":1151.2,"yMin":83.2,"xMax":1472.0,"yMax":629.4},"m_SerializedDataModeController":{"m_DataMode":"Disabled","m_PreferredDataMode":"Disabled","m_SupportedDataModes":[],"isAutomatic":true},"m_ViewDataDictionary":null,"m_OverlayCanvas":{"m_LastAppliedPresetName":"Default","m_SaveData":[],"m_OverlaysVisible":true}}'
     _objectReferences: []
 --- !u!114 &15
 MonoBehaviour:
@@ -788,11 +788,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.57291096, y: -0.38649833, z: 0.35024247, w: -0.63224626}
     speed: 2
-    m_Value: {x: -0.5701677, y: -0.39319655, z: 0.35803443, w: -0.6261922}
+    m_Value: {x: 0.57291096, y: 0.38649833, z: -0.3502425, w: 0.63224626}
   m_Size:
     m_Target: 8.026147
     speed: 2
-    m_Value: 7.680523
+    m_Value: 8.026147
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -855,9 +855,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 565a0000
-      m_LastClickedID: 23126
-      m_ExpandedIDs: 30fbffff
+      m_SelectedIDs: 505a0000
+      m_LastClickedID: 0
+      m_ExpandedIDs: 1afaffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1125,8 +1125,8 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 9e5a0000
-    m_LastClickedID: 23198
+    m_SelectedIDs: a85a0000
+    m_LastClickedID: 23208
     m_ExpandedIDs: 0000000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -1182,7 +1182,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000726700003461000038650000a0630000366100003e6100003264000080670000286400001c64000030640000f89b0000bc800000bc9b000060980000128f000030800000009a0000d896000058ae00005cae000060ae000064ae000068ae00006cae0000d49600002a8700002e87000032870000fa860000f6640000726400007664000012650000d66400003265000008630000f4610000e67200000e8e000092a2000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
